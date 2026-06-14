@@ -179,5 +179,5 @@ Feel free to reach out if you want to collaborate on web/AI projects, talk about
 </p>
 
 <p align="center">
-  <i>Built with 🌌 and ⚡ by Alok Kumar Sahu</i>
+  <i>Built with ❤️ and ⚡ by Alok Kumar Sahu</i>
 </p>
