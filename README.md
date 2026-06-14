@@ -1,7 +1,7 @@
 # 🌌 Alok Kumar Sahu — GitHub Profile
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Alok+Kumar+Sahu+👋;Software+Engineer;AI+Builder;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hi+there!+I+am+Alok+Kumar+Sahu;Software+Engineer;AI+Builder;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
