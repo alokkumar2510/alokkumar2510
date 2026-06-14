@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td width="220px" align="center" valign="top">
-      <img src="https://github.com/alokkumar2510.png" width="180px" alt="Alok Kumar Sahu" style="border-radius: 20px; border: 2px solid #00E5FF; box-shadow: 0 4px 20px rgba(0,229,255,0.3);" />
+      <img src="alok_pfp.png" width="180px" alt="Alok Kumar Sahu" style="border-radius: 20px; border: 2px solid #00E5FF; box-shadow: 0 4px 20px rgba(0,229,255,0.3);" />
     </td>
     <td valign="top">
       <h3>🚀 Building Scalable Web Experiences & Exploring the Power of AI</h3>
